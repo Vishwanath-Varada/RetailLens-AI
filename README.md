@@ -1,23 +1,61 @@
-### ShopIQ-AI-Retail-Intelligence-Platform
-<p align="center">
-  <img src="https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform/blob/2826a22660f0cf9c1475666c586475ff6aaa996b/Shop-IQ.png" width="200"/>
-</p>
+# RetailLens AI
 
-<p align="center">
-  <b>Production-grade platform for shopper behavior analysis, demand forecasting, and real-time retail insights.</b>
-</p>
+## About This Project
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-16.1.6-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-5.7.3-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-19.2.4-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4.2.0-38BDF8?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Analytics-Behavior-3B82F6?style=flat"/>
-  <img src="https://img.shields.io/badge/ML-Affinity-8B5CF6?style=flat"/>
-  <img src="https://img.shields.io/badge/Data-Pipeline-F59E0B?style=flat"/>
-</p>
+RetailLens AI is an AI-powered retail analytics platform designed to help businesses analyze customer behavior, identify purchasing patterns, forecast demand, and generate actionable business insights through interactive dashboards.
 
-## Promblem Statement 
+## My Contributions
+
+- Customized and rebranded the application as RetailLens AI
+- Enhanced dashboard styling and UI themes
+- Integrated additional retail analytics datasets
+- Configured and deployed the application locally using Next.js and TypeScript
+- Maintained Git version control and project documentation
+
+## Technologies Used
+
+- Next.js
+- TypeScript
+- React
+- Tailwind CSS
+- Analytics Dashboards
+- Data Visualization
+
+## Project Attribution
+
+This project is based on the open-source ShopIQ platform. Additional customization, branding, and enhancements were implemented for portfolio and learning purposes.
+
+## About This Project
+
+RetailLens AI is a customized retail analytics and customer intelligence platform designed to analyze shopper behavior, customer segments, purchasing trends, and revenue forecasting through interactive dashboards and business intelligence visualizations.
+
+## My Contributions
+
+- Customized dashboard styling and visual theme
+- Rebranded the platform as RetailLens AI
+- Modified UI components and user experience
+- Enhanced analytics presentation and dashboard experience
+- Exploring additional KPIs and AI-driven business insights
+
+## Technologies Used
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Recharts
+- Zustand
+- Data Analytics
+- Machine Learning
+
+## Project Attribution
+
+This project is based on the open-source ShopIQ retail analytics platform and is being customized and extended for learning and portfolio purposes.
+
+Original Project:
+https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform
+
+## Problem Statement 
 
 E-commerce | Consumer Analytics | Personalization
 
